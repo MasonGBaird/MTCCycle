@@ -1,0 +1,2 @@
+ordnum,ship_id,adr_id,cstnum,carcod,srvlvl,ordtyp,prtnum,untqty,invsts_prg,wave_num,move_id,trlr_id,dock,pck_dstloc,load_stop,operation,client_id
+CYC_OBORD2,CYC_OBSHP2,A000000531,FISCOM,AGITRA,STND,C,001-00210,1,A,CYC_OBWAV2,CYC_OBMOV2,CYC_OBTRL2,DOOR20,SSTG20,YES,CLOSEONLY,FISCOM
